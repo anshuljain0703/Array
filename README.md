@@ -10,4 +10,12 @@ This repository showcases my array-related code implementations in Java. The cod
 
 -Searching algorithms
 
--Common array challenges with solutions and much more.
+-Common array challenges with solutions
+
+-Basic array operations (insertion, deletion, traversal)
+
+-2D Array manipulations
+
+-ArrayList operations and examples
+
+
