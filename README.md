@@ -1,13 +1,13 @@
-Array Code Repository
+**Array Code Repository**
 
 This repository showcases my array-related code implementations in Java. The code files include various techniques and algorithms that demonstrate efficient array handling and manipulation.
 
-Features
+**Features**
 
-Basic array operations (insertion, deletion, traversal)
+-Basic array operations (insertion, deletion, traversal)
 
-Duplicate detection using brute force
+-Duplicate detection using brute force
 
-searching algorithms
+-Searching algorithms
 
-Common array challenges with solutions and much more.
+-Common array challenges with solutions and much more.
